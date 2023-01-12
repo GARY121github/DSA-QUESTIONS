@@ -14,3 +14,12 @@
 - [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 - [Monotonic Array](https://leetcode.com/problems/monotonic-array/)
 - [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
+- [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  
+-------------------------------------------------------------------------
+
+# KADANE's ALGORITHM
+
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [Smallest sum contiguous subarray](https://practice.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+- [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
