@@ -23,3 +23,15 @@
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [Smallest sum contiguous subarray](https://practice.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+
+----------------------------------------------------------------------------------------
+# BINARY SEARCH
+
+- [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+- [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- 
