@@ -23,6 +23,7 @@
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [Smallest sum contiguous subarray](https://practice.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
 - [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
+- [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 
 ----------------------------------------------------------------------------------------
 # BINARY SEARCH
@@ -34,4 +35,10 @@
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-- 
+- [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+
+-------------------------------------------------------------------------------------------------------------
+
+- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+- [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+- [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
