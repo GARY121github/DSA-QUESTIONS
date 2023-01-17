@@ -54,8 +54,8 @@
 - [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
 - [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [Gas Station](https://leetcode.com/problems/gas-station/)
-  
-  ----------------------------------------------------------------------------------------------------------
+ 
+----------------------------------------------------------------------------------------------------------
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [Rain Water Trapping](https://leetcode.com/problems/trapping-rain-water/)
   ----------------------------------------------------------------------------------------------------------
@@ -67,5 +67,5 @@
 
 # Boyer-Moore Majority Voting Algorithm
 
-- [Majority Element (n/2)][https://leetcode.com/problems/majority-element/]
-- [Majority Element II (n/3)][https://leetcode.com/problems/majority-element-ii/]
+- [Majority Element (n/2)](https://leetcode.com/problems/majority-element/)
+- [Majority Element II (n/3)](https://leetcode.com/problems/majority-element-ii/)
