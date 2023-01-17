@@ -42,3 +42,30 @@
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
+- [Max sum path in two arrays](https://practice.geeksforgeeks.org/problems/max-sum-path-in-two-arrays/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+- [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+- [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+- [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+- [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+- [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+- [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [Gas Station](https://leetcode.com/problems/gas-station/)
+  
+  ----------------------------------------------------------------------------------------------------------
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [Rain Water Trapping](https://leetcode.com/problems/trapping-rain-water/)
+  ----------------------------------------------------------------------------------------------------------
+
+# Dutch National Flag
+
+- [Segregate 0s and 1s](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+
+# Boyer-Moore Majority Voting Algorithm
+
+- [Majority Element (n/2)][https://leetcode.com/problems/majority-element/]
+- [Majority Element II (n/3)][https://leetcode.com/problems/majority-element-ii/]
