@@ -1,0 +1,6 @@
+[Print Matrix in Wave Form (row)](https://www.geeksforgeeks.org/print-matrix-in-wave-form/)
+[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+[Print a given matrix in counter-clock wise spiral form](https://www.geeksforgeeks.org/print-given-matrix-counter-clock-wise-spiral-form/)
+[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)
+[Transpose Matrix (m x n)](https://leetcode.com/problems/transpose-matrix/)
+[Transpose of Matrix (n x n)](https://practice.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1)
