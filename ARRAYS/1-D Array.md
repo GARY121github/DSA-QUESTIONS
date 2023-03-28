@@ -46,7 +46,16 @@
 - [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 - [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 - [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+--------------------------------------------------------------------------------------------------------------------
+
+# DUPLICATE NUMBERS in range of [1 - N]
+
+- [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)
+- 
+--------------------------------------------------------------------------------------------------------------------
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
